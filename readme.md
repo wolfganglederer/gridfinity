@@ -12,3 +12,4 @@ Files and more descriptions can be found on printables
 - [Olfa Knife](https://www.printables.com/model/380264-gridfinity-for-olfa-knife)
 - [Color Tubes](https://www.printables.com/model/524228-gridfinity-for-color-tubes-1x1-4x4)
 - [Bowls](https://www.printables.com/model/828237-gridfinity-bowls-parameterized)
+- [USB Power](https://www.printables.com/model/1264747-gridfinity-for-usb-power-adapters-euro-plugs)
